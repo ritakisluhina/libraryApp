@@ -21,8 +21,7 @@ PASSWORD: password
 
 URL: jdbc:mysql://host name:port/database name?serverTimezone=UTC , where:
 
-4. Run project
+4. Run the project
 
 5. Admin and User will be added to your database when program start.
-# libraryApp
-# libraryApp
+
