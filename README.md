@@ -1,6 +1,6 @@
 # Library application
 
-This is a simple REST application which represents the work of library, where we can manage books and authors.
+This is a simple REST application which represents the work of library, where authors and their lists of books can be stored and managed.
 
 ## Technologies used
 
