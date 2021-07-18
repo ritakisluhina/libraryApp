@@ -1,8 +1,8 @@
 # Library application
 
-This REST application represents the work of library, where we can manage books and authors
+This is a simple REST application which represents the work of library, where we can manage books and authors.
 
-##Technologies used
+## Technologies used
 
 * Spring
 * Hibernate
