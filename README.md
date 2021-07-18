@@ -1,4 +1,4 @@
-#Library application
+# Library application
 
 This REST application represents the work of library, where we can manage books and authors
 
@@ -8,7 +8,7 @@ This REST application represents the work of library, where we can manage books 
 * Hibernate
 * Tomcat
 
-##To run the app you will need:
+## To run the app you will need:
 
 1. Clone this project
 
